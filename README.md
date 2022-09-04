@@ -15,9 +15,9 @@ Hello there, it's Adpitacor, an OIer from China. Although knowing Github a few y
 
 Actually, it has no (meaningful) meaning.
 
-The word "adpitac" just poped out of my head the day I was thinking of making a game. I used the word as a new kind of monetary unit because I was tired of "coin".
+One day while I was thinking of making a game, I wanted to create a new kind of monetary unit because I was tired of "coin". The word "adpitac" just poped out of my head. The mind of making the game vanished, but the word didn't.
 
-The mind of making the game vanished, but the word didn't. I soon found out that the word is unique, so I simply added "or" (I thought it's better than "er") after "adpitac" and make it the name of my accounts on many online platforms, such as [洛谷(Luogu)](https://www.luogu.com.cn/user/374733), [Codeforces](https://codeforces.com/profile/adpitacor), [Atcoder](https://atcoder.jp/users/adpitacor) and so on.
+I soon found out that the word is unique, so I simply added "or" (I thought it's better than "er") after "adpitac" and used it as the name of my accounts on many online platforms, such as Github (as you see), [洛谷(Luogu)](https://www.luogu.com.cn/user/374733), [Codeforces](https://codeforces.com/profile/adpitacor), [Atcoder](https://atcoder.jp/users/adpitacor) and so on.
 
 ### What projects are you working on?
 
