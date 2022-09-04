@@ -23,6 +23,6 @@ I soon found out that the word is unique, so I simply added "or" (I thought it's
 
 Saying about this, I have a few ideas and am working on them (though having little progress):
 
-- Rewrite [wenyan](https://github.com/wenyan-lang/wenyan) compiler to make it faster and add brand new syntax either to make simplification or to support more ES6 syntax, so that the language can be used to produce more practical and powerful Javascript code.
+- Rewrite [wenyan](https://github.com/wenyan-lang/wenyan) compiler to make it faster and add brand new syntax both to make simplification and to support more ES6 syntax, so that the language can be used to produce more practical and powerful Javascript code.
 
 - Implement a Neuron Network for Machine Learning **from scratch**, understand the basic principle of it, and use it to recognize digits and alphabets. (That's pretty much like the OCR.)
