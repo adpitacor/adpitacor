@@ -1,1 +1,0 @@
-This document will shortly (and informally) introduce some thoughts of feasible improvement of the programming language [**wenyan-lang**](https://github.com/wenyan-lang/wenyan). Although such improvements already exist in Issues in the original Github project, it haven't got response its s**wenyan-improved**.
