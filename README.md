@@ -7,7 +7,6 @@
 
 adpitacor/adpitacor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--->
 
 Hello there, it's Adpitacor, an OIer from China. Although knowing Github a few years ago, this guy didn't have a account untill 2022.9.4, a pretty ordinary day.
 
@@ -26,3 +25,5 @@ Saying about this, I have a few ideas and am working on them (though having litt
 - Rewrite [wenyan](https://github.com/wenyan-lang/wenyan) compiler to make it faster and add new syntax both to make simplification and to support more ES6 syntax, so that the language can be used to produce more practical and powerful Javascript code.
 
 - Implement a Neuron Network for Machine Learning **from scratch**, understand the basic principle of it, and use it to recognize digits and alphabets. (That's pretty much like the OCR.)
+
+-->
